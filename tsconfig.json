@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "module": "ES2020",
+        "target": "es5",
+        "sourceMap": true,
+        "moduleResolution": "node",
+        "lib": [
+            "ES2020",
+            "DOM"
+        ]
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
